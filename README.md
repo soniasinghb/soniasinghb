@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @soniasinghb
 - 👀 I’m interested in coding and math
-- 🌱 I’m currently learning reactJS
-- I'm interested in Machine Learning and Blockchain technologies.
-- 💞️ I’m looking to collaborate on ...
+- I'm interested in Systems, Core CS.
 - 📫 How to reach me besoniasingh@gmail.com
 
 <!---
